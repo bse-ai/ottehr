@@ -28,7 +28,7 @@
     "@oystehr/sdk": "3.0.7",
     "@types/node-fetch": "^2.6.11",
     "aws-cdk-lib": "2.177.0",
-    "constructs": "^10.0.0",
+    "constructs": "^10.4.3",
     "ts-node": "10.9.2",
     "source-map-support": "^0.5.21"
   }
