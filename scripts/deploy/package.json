@@ -23,7 +23,7 @@
     "vitest": "^3.0.4"
   },
   "dependencies": {
-    "@aws-sdk/client-cloudfront": "^3.645.0",
+    "@aws-sdk/client-cloudfront": "^3.971.0",
     "@aws-sdk/credential-providers": "^3.645.0",
     "@oystehr/sdk": "3.0.7",
     "@types/node-fetch": "^2.6.11",
